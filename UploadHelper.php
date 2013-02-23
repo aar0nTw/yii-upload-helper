@@ -2,7 +2,8 @@
 /**
 * Upload helper
 * @author Aaron Huang
-* @since 0.3.0
+* @copyright Copyright &copy; Aaron Huang <黃冠中> 2013-
+* @license www.opensource.org/licenses/mit-license.php
 */
 class UploadHelper
 {
