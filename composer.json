@@ -1,0 +1,19 @@
+{
+    "name": "aar0ntw/yii-uploader-helper",
+    "description": "Upload Helper for the Yii PHP framework.",
+    "keywords": ["upload","uploader","yii"],
+    "type": "yii-extension",
+    "license": "MIT",
+    "homepage": "https://github.com/aar0nTw/yii-uploader-helper",
+    "authors": [
+                {
+                            "name": "Aaron Huang (黃冠中)",
+                            "email": "aaroms9733+packagist@gmail.com",
+                            "homepage": "http://blog.buginception.com/"
+                        }
+    ],
+    "require":{
+        "php": ">=5.3",
+        "yiisoft/yii": ">=1.1.7"
+    }
+}
